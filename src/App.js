@@ -5,7 +5,7 @@ var x = 0;
 
 const api = {
   key: "1c2a5ef864cb19a37bb64bb35ec89f01",
-  base: "http://api.openweathermap.org/data/2.5/"
+  base: "https://api.openweathermap.org/data/2.5/"
 
 }
 function App() {
